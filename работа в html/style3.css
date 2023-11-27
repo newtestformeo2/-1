@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    font-family: "Rubik One";
+}
+.container {
+    margin: 0px 166px;
+        
+}
+.header{
+      background-image: url(2.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+      
+}
+.header-line{
+   display: flex; 
+    align-items: center;
+    padding-top:  50px 
+    
+    
+}
+.header-line{
+   justify-content: space-around;
+}
+.nav-item{
+    color: #fff;
+    text-decoration: none;
+    font-size: 25; 
+     font-family: "Rubik One";
+    margin-right: 25px
+    
+}
+.nav-item:hover{
+    color:darkorange;
+        
+}
+
+.buttor{
+    background-color: #FF7400;
+    text-decoration: none;
+    color: #fff;
+    padding: 14px 18px;
+}
+.buttor {
+ text-decoration: none;
+ display: inline-block;
+ font-size: 2rem;
+ background-color: #FF7400#FF7400;
+ border-radius: 5px;
+ color: #ffffff;
+ padding: 15px 25px;
+}
+.buttor:hover {
+ background-color: #e53935;
+}
+.buttor {
+ text-decoration: none;
+ display: inline-block;
+ font-size: 2rem;
+ background-color: #FF7400;
+ border-radius: 5px;
+ color: #ffffff;
+ padding: 15px 25px;
+ transition: all 0.8s ease 0s;
+}
+.dishes-title1{
+font-family: "Open Sans", sans-serif;
+    color:#fff;
+    font-size: 40px;
+    font-weight:400px;
+    text-align: center;
+}
+    
+.ter-title{
+    font-family: "Open Sans", sans-serif;
+    color:#fff;
+    font-size: 25px;
+    font-weight:400px;
+    
+}
